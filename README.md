@@ -27,7 +27,7 @@ To interact with this contract, you will need:
 To deploy the MyToken contract:
 
 1. Open your development environment (e.g., Remix).
-2. Copy the MyToken contract code into a new file named `MyToken.sol`.
+2. Copy the Error contract code into a new file named `Error.sol`.
 3. Compile the contract using the Solidity compiler version 0.8.18.
 4. Deploy the contract, specifying the initial token name, symbol, and supply in the constructor.
 
